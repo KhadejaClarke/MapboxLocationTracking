@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mapbox Location Tracking</string>
+    <string name="access_token" translatable="false">pk.eyJ1Ijoia2hhZGVqYWNsYXJrZSIsImEiOiJjazJld2NoYTUwZTRoM2huMGVsOTgza3cwIn0.Bk2mMcYYo9l2VP9Y0WabiA</string>
+
+    <!--Basic user location permission toasts-->
+    <string name="user_location_permission_explanation">This app needs location permissions in order to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+
+    <!-- Location change listening -->
+    <string name="coords">Lat: %1$s Lng: %2$s</string>
+
+    <!-- Infowindow SymbolLayer -->
+    <string name="tap_on_marker_instruction">Tap on a marker</string>
+
+</resources>
